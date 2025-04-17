@@ -19,6 +19,21 @@ body {
     overflow-x: hidden;
 }
 
+
+.but {
+    color: #222;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center
+    animation: fadeIn 2s ease forwards;
+}
+
+.bit {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center
+    animation: fadeIn 3s ease forwards;
+    color: #222;
+}
+
 h1 {
     margin-bottom: 30px;
     animation: fadeIn 2s ease forwards;
@@ -151,6 +166,11 @@ body.dark-mode .love-button {
 }
 
 .but {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center
+}
+
+.bit {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center
 }
